@@ -11,7 +11,7 @@ public class Calculator {
         Scanner scanB = new Scanner(System.in);
         b = scanB.nextInt();
 
-        System.out.println("Möchten Sie addieren, subtrahieren, multiplizieren oder adieren? ");
+        System.out.println("Möchten Sie addieren, subtrahieren, multiplizieren oder addieren? ");
         Scanner scanCmd = new Scanner(System.in);
         String cmd = scanCmd.next();
 
